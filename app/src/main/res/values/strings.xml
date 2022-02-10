@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FlipnRoll</string>
+    <string name="title_coin">Coin</string>
+    <string name="title_dice">Dice</string>
+    <string name="flip">Flip</string>
+    <string name="roll">Roll</string>
+    <string name="coin_description">Coin Result: %1$s</string>
+    <string name="coin_description_default">Coin Result: not flipped yet</string>
+    <string name="dice_description">Dice Result: %1$d</string>
+    <string name="dice_description_default">Dice Result: not rolled yet</string>
+</resources>
