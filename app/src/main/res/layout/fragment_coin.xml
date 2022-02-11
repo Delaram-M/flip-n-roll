@@ -6,8 +6,6 @@
     android:layout_height="match_parent"
     tools:context=".CoinFragment">
 
-    <!-- TODO add coin and dice image descriptions -->
-
     <ImageView
         android:id="@+id/coin_image"
         android:layout_width="200dp"
